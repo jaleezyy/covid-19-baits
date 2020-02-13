@@ -13,6 +13,7 @@ Download the [complete set of SARS-CoV-2 bait capture probes](./fasta_files/prop
 * [Custom Python Scripts](./custom_scripts)
 * [SARS-CoV-2 Reference Sequences](./fasta_files/references)
 * [High Resolution Figures](./figures)
+* [Supplementary Data: Probe Coverage of NCBI Genomes](./supplementary_data/NCBI_coverage)
 * [Supplementary Data: Probe Coverage of GISAID Genomes](./supplementary_data/GISAID_coverage)
 
 # GC Content of Probes
@@ -24,11 +25,17 @@ Download the [complete set of SARS-CoV-2 bait capture probes](./fasta_files/prop
 # Reads on Target
 ![Melting Temperature of Probes](./figures/reads_on_target_NCBI_allprobes.png)
 
-# Coverage plot of probes aligned to SARS-CoV-2 genomes
-![Coverage plot of probes aligned to SARS-CoV-2 genomes](./supplementary_data/NCBI_coverage/covered_positions.png)
+# Coverage plot of probes aligned to NCBI SARS-CoV-2 genomes
+![Coverage plot of probes aligned to NCBI SARS-CoV-2 genomes](./supplementary_data/NCBI_coverage/covered_positions.png)
 
-# Uniformity plot denoting depth of coverage of candidate probes across all possible nucleotide targets from SARS-CoV-2 genomes
-![Uniformity plot denoting depth of coverage of candidate probes across all possible nucleotide targets from SARS-CoV-2 genomes](./supplementary_data/NCBI_coverage/Coverage_histo.png)
+# Uniformity plot denoting depth of coverage of candidate probes across all possible nucleotide targets from NCBI SARS-CoV-2 genomes
+![Uniformity plot denoting depth of coverage of candidate probes across all possible nucleotide targets from NCBI SARS-CoV-2 genomes](./supplementary_data/NCBI_coverage/Coverage_histo.png)
 
 # Alignment of candidate probes against a single SARS-CoV-2 genome (MN908947.3)
 ![Alignment of candidate probes against a single SARS-CoV-2 genome](./figures/2019-nCoV_alignment_summary.png)
+
+# Coverage plot of probes aligned to GISAID SARS-CoV-2 genomes
+![Coverage plot of probes aligned to GISAID SARS-CoV-2 genomes](./supplementary_data/GISAID_coverage/covered_positions.png)
+
+# Uniformity plot denoting depth of coverage of candidate probes across all possible nucleotide targets from GISAID SARS-CoV-2 genomes
+![Uniformity plot denoting depth of coverage of candidate probes across all possible nucleotide targets from GISAID SARS-CoV-2 genomes](./supplementary_data/GISAID_coverage/Coverage_histo.png)
