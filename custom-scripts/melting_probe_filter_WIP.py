@@ -26,7 +26,7 @@ if os.path.exists("./Tm_%s.txt" %(userParameters)):
     Tm_userParameters = "Tm_"+userParameters+".txt"
 else:
     print("Running melt.pl on given probe set")
-    subprocess.run("~/jalees/Scripts/melt_parse.sh -s %s" %(userParameters), check=True, shell=True)
+    subprocess.run("./melt_parse.sh -s %s" %(userParameters), check=True, shell=True)
     print("Generated list of melting temperatures" + "\n") # Tm_userParameters.txt
     Tm_userParameters = "Tm_"+userParameters+".txt" 
 
