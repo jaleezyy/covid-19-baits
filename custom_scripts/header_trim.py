@@ -17,7 +17,7 @@ except IndexError:
 	except IndexError:
 		print("""
 Arguments are as followed:
-	blast_header_trim.py <input_file> <num_threads (optional)>
+	header_trim.py <input_file> <num_threads (optional)>
 	""")
 		exit()
 
