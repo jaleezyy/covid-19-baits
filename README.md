@@ -33,12 +33,6 @@ Download the [complete set of SARS-CoV-2 bait capture probes](./fasta_files/prop
 # Alignment of candidate probes against a single SARS-CoV-2 genome (MN908947.3)
 ![Alignment of candidate probes against a single SARS-CoV-2 genome](./figures/2019-nCoV_alignment_summary.png)
 
-# Coverage plot of probes aligned to GISAID SARS-CoV-2 genomes
-![Coverage plot of probes aligned to GISAID SARS-CoV-2 genomes](./supplementary_data/GISAID_coverage/covered_positions.png)
-
-# Uniformity plot denoting depth of coverage of candidate probes across all possible nucleotide targets from GISAID SARS-CoV-2 genomes
-![Uniformity plot denoting depth of coverage of candidate probes across all possible nucleotide targets from GISAID SARS-CoV-2 genomes](./supplementary_data/GISAID_coverage/Coverage_histo.png)
-
 # Coverage plots of candidate probes across known SARS-CoV-2 complete genomes. The x-axis represents the base position on the genome denoted by the accession. The y-axis ranges from 0 to 4 fold coverage.
 ![Uniformity Plot](./supplementary_data/NCBI_coverage/LR757995_Ontarget_Coverage.png)
 ![Uniformity Plot](./supplementary_data/NCBI_coverage/LR757996_Ontarget_Coverage.png)
