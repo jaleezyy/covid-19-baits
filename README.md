@@ -16,6 +16,9 @@ Download the [complete set of SARS-CoV-2 bait capture probes](./fasta-files/prop
 
 * [Custom Python Scripts](./custom-scripts)
 * [SARS-CoV-2 Reference Sequences](./fasta-files/references)
+* [High Resolution Figures](./figures)
 
 # Plots and Figures
 
+![GC Content of Probes](./figures/gc_plot.png)
+![Melting Temperature of Probes](./figures/Tm_plot.png)
