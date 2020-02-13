@@ -18,11 +18,12 @@ Download the [complete set of SARS-CoV-2 bait capture probes](./fasta-files/prop
 * [SARS-CoV-2 Reference Sequences](./fasta-files/references)
 * [High Resolution Figures](./figures)
 
-# Plots and Figures
-
-GC Content of Probes
+# GC Content of Probes
 ![GC Content of Probes](./figures/gc_plot.png)
 
-Melting Temperature of Probes
+# Melting Temperature of Probes
 ![Melting Temperature of Probes](./figures/Tm_plot.png)
+
+# Reads on Target
+![Melting Temperature of Probes](./figures/reads_on_target_NCBI_allprobes.png)
 
