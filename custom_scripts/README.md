@@ -6,7 +6,7 @@
 * Python 3.6.8+ (with Biopython 1.7.5)
 
 # header_trim.py
-Script aims to trim header of a FASTA file after running BaitsTools such that each header consists of reference sequence / start co-ordinate / stop co-ordinate.
+Script trims header of a FASTA file after running BaitsTools such that each header consists of reference sequence / start co-ordinate / stop co-ordinate.
 
 # melting_probe_filter_WIP.py
 To be used with melt_parse.sh, execute melt.pl (part of OligoArrayAux) which calculates melting temperature and parses for only melting temperature data. Once melting temperature information generated, filters to keep probes within specified minimum and maximum temperature ranges.
@@ -18,5 +18,5 @@ Execute melt.pl (requires OligoArrayAux) and parse resulting output such that on
 Uses BLASTN output (-outfmt '10 std staxids sscinames sblastnames sskingdoms') to removes probes that do not align to specified keep term (built corresponding to sskingdoms). 
 
 # binb4greedy_WIP.py
-Requiring a BLASTN of candidate probes onto a BLASTDB of the probe set, group  all hits corresponding to a query probe and remove probes covering the same sequence space. 
+Self BLASTN of candidate probes, group all hits corresponding to a query probe and remove probes covering redundant sequence space. 
 
