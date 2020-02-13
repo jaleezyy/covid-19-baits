@@ -20,5 +20,9 @@ Download the [complete set of SARS-CoV-2 bait capture probes](./fasta-files/prop
 
 # Plots and Figures
 
+GC Content of Probes
 ![GC Content of Probes](./figures/gc_plot.png)
+
+Melting Temperature of Probes
 ![Melting Temperature of Probes](./figures/Tm_plot.png)
+
