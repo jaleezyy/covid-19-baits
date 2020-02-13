@@ -18,7 +18,7 @@ while getopts ":s:" option; do
 esac
 done
 
-melt.pl $SOURCE > "Tm_"$SOURCE".txt_intermediate"
+melt.pl -n RNA -t 65 -C 1.89e-9 $SOURCE > "Tm_"$SOURCE".txt_intermediate"
 
 count=$(grep -n "dG" "Tm_"$SOURCE".txt_intermediate" | awk -F ":" '{print $1}') # find line number where data splits between both halves of melt.pl
 echo $count
