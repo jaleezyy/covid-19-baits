@@ -24,5 +24,11 @@ Download the [complete set of SARS-CoV-2 bait capture probes](./fasta_files/prop
 # Reads on Target
 ![Melting Temperature of Probes](./figures/reads_on_target_NCBI_allprobes.png)
 
+# Coverage plot of probes aligned to SARS-CoV-2 genomes
+![Coverage plot of probes aligned to SARS-CoV-2 genomes](./supplementary_data/NCBI_coverage/covered_positions.png)
+
+# Uniformity plot denoting depth of coverage of candidate probes across all possible nucleotide targets from SARS-CoV-2 genomes
+![Uniformity plot denoting depth of coverage of candidate probes across all possible nucleotide targets from SARS-CoV-2 genomes](./supplementary_data/NCBI_coverage/Coverage_histo.png)
+
 # Alignment of candidate probes against a single SARS-CoV-2 genome (MN908947.3)
 ![Alignment of candidate probes against a single SARS-CoV-2 genome](./figures/2019-nCoV_alignment_summary.png)
