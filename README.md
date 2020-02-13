@@ -6,12 +6,12 @@ Full description, methods, and results can be viewed here: PREPRINT.
 
 # SARS-CoV-2 bait capture platform probe set
 
-Download the [complete set of SARS-CoV-2 bait capture probes](./fasta-files/proposed_probe_set). The header of each sequence reflects the reference sequence / start co-ordinate / stop co-oridinate from which the probe was defined by the design pipeline, e.g. MN908947_1101-1180.
+Download the [complete set of SARS-CoV-2 bait capture probes](./fasta_files/proposed_probe_set). The header of each sequence reflects the reference sequence / start co-ordinate / stop co-oridinate from which the probe was defined by the design pipeline, e.g. MN908947_1101-1180.
 
 # Tools and Reference Sequences
 
-* [Custom Python Scripts](./custom-scripts)
-* [SARS-CoV-2 Reference Sequences](./fasta-files/references)
+* [Custom Python Scripts](./custom_scripts)
+* [SARS-CoV-2 Reference Sequences](./fasta_files/references)
 * [High Resolution Figures](./figures)
 * [Supplementary Data: Probe Coverage of GISAID Genomes](./supplementary_data/GISAID_coverage)
 
