@@ -8,14 +8,13 @@ SARS-CoV-2 is a novel betacoronavirus and the etiological agent of the current 2
 
 # SARS-CoV-2 bait capture platform probe set
 
-The complete set of SARS-CoV-2 bait capture platform probe are available [here](./fasta-files/proposed_probe_set). The header of each sequence reflects the reference sequence / start co-ordinate / stop co-oridinate from which the probe was defined by the design pipeline, e.g.
+Download the [complete set of SARS-CoV-2 bait capture probes](./fasta-files/proposed_probe_set). The header of each sequence reflects the reference sequence / start co-ordinate / stop co-oridinate from which the probe was defined by the design pipeline, e.g.
 
 >MN908947_1101-1180
 
 # Tools and Reference Sequences
 
 * [Custom Python Scripts](./custom-scripts)
-* [SARS-CoV-2 Reference Sequences](./fasta-files/references)
 * [SARS-CoV-2 Reference Sequences](./fasta-files/references)
 
 # Plots and Figures
