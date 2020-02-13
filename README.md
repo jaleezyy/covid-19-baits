@@ -13,7 +13,6 @@ Download the [complete set of SARS-CoV-2 bait capture probes](./fasta_files/prop
 * [Custom Python Scripts](./custom_scripts)
 * [SARS-CoV-2 Reference Sequences](./fasta_files/references)
 * [High Resolution Figures](./figures)
-* [Supplementary Data: Probe Coverage of NCBI Genomes](./supplementary_data/NCBI_coverage)
 * [Supplementary Data: Probe Coverage of GISAID Genomes](./supplementary_data/GISAID_coverage)
 
 # GC Content of Probes
@@ -39,3 +38,26 @@ Download the [complete set of SARS-CoV-2 bait capture probes](./fasta_files/prop
 
 # Uniformity plot denoting depth of coverage of candidate probes across all possible nucleotide targets from GISAID SARS-CoV-2 genomes
 ![Uniformity plot denoting depth of coverage of candidate probes across all possible nucleotide targets from GISAID SARS-CoV-2 genomes](./supplementary_data/GISAID_coverage/Coverage_histo.png)
+
+# Coverage plots of candidate probes across known SARS-CoV-2 complete genomes. The x-axis represents the base position on the genome denoted by the accession. The y-axis ranges from 0 to 4 fold coverage.
+![Uniformity Plot](./supplementary_data/NCBI_coverage/LR757995_Ontarget_Coverage.png)
+![Uniformity Plot](./supplementary_data/NCBI_coverage/LR757996_Ontarget_Coverage.png)
+![Uniformity Plot](./supplementary_data/NCBI_coverage/LR757997_Ontarget_Coverage.png)
+![Uniformity Plot](./supplementary_data/NCBI_coverage/LR757998_Ontarget_Coverage.png)
+![Uniformity Plot](./supplementary_data/NCBI_coverage/MN908947_Ontarget_Coverage.png)
+![Uniformity Plot](./supplementary_data/NCBI_coverage/MN938384_Ontarget_Coverage.png)
+![Uniformity Plot](./supplementary_data/NCBI_coverage/MN975262_Ontarget_Coverage.png)
+![Uniformity Plot](./supplementary_data/NCBI_coverage/MN985325_Ontarget_Coverage.png)
+![Uniformity Plot](./supplementary_data/NCBI_coverage/MN988668_Ontarget_Coverage.png)
+![Uniformity Plot](./supplementary_data/NCBI_coverage/MN988669_Ontarget_Coverage.png)
+![Uniformity Plot](./supplementary_data/NCBI_coverage/MN988713_Ontarget_Coverage.png)
+![Uniformity Plot](./supplementary_data/NCBI_coverage/MN994467_Ontarget_Coverage.png)
+![Uniformity Plot](./supplementary_data/NCBI_coverage/MN994468_Ontarget_Coverage.png)
+![Uniformity Plot](./supplementary_data/NCBI_coverage/MN996527_Ontarget_Coverage.png)
+![Uniformity Plot](./supplementary_data/NCBI_coverage/MN996528_Ontarget_Coverage.png)
+![Uniformity Plot](./supplementary_data/NCBI_coverage/MN996529_Ontarget_Coverage.png)
+![Uniformity Plot](./supplementary_data/NCBI_coverage/MN996530_Ontarget_Coverage.png)
+![Uniformity Plot](./supplementary_data/NCBI_coverage/MN996531_Ontarget_Coverage.png)
+![Uniformity Plot](./supplementary_data/NCBI_coverage/MN997409_Ontarget_Coverage.png)
+![Uniformity Plot](./supplementary_data/NCBI_coverage/MT007544_Ontarget_Coverage.png)
+![Uniformity Plot](./supplementary_data/NCBI_coverage/NC_045512_Ontarget_Coverage.png)
