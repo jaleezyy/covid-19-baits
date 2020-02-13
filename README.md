@@ -1,4 +1,4 @@
-## SARS-CoV-2 bait capture platform
+## SARS-CoV-2 Bait Capture Platform
 
 # Abstract
 
