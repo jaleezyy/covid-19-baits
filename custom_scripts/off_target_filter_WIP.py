@@ -29,6 +29,7 @@ def create_parser():
 	parser.add_argument('-k', '--keep', dest="keep_term", required=False, help="keep baits with matching sskingdoms only - default filters based on all information without exception.")
 	return parser
 
+### https://biopython.org/wiki/Split_large_file - iterator for FASTA file
 def batch_iterator(iterator, batch_size): # create iterator
 	entry = True  # Make sure we loop once
 	while entry:
@@ -58,7 +59,7 @@ def generator_file(file):
 		for line in r:
 			yield line
 
-def split_file(file, num, threads):
+def split_file(file, num, threads): # fix to .endswith(<extension>)
 	batch_all = [] # store split input
 	if ".fasta" in file:
 		record_iter = SeqIO.parse(file,"fasta")
@@ -143,12 +144,7 @@ def off_target(seq, removal_list, blast): # filters the input FASTA, outputting 
 				off_list.append((str(seq_record.description), str(seq_record.seq)))
 				#out.write(">" + str(seq_record.description) + "\n" + str(seq_record.seq) + "\n")
 	return off_list			
-			
-					
-		#print(str(seq_record.description).split(" ")[0]+"_"+str(seq_record.description).rsplit("_",1)[1])
-		#exit()
-	
-	
+				
 def run():
 	parser = create_parser()
 	args = parser.parse_args()
