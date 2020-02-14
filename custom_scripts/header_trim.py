@@ -21,8 +21,8 @@ Arguments are as followed:
 	""")
 		exit()
 
-### wrap everything in a try/except with thread being the exception (?)
 
+### https://biopython.org/wiki/Split_large_file - iterator for FASTA file
 
 def batch_iterator(iterator, batch_size): # create iterator
 	entry = True  # Make sure we loop once
@@ -67,16 +67,6 @@ def trim_header(batch):
 	
 	return header,seq
 	
-	#if path.exists("trimmed_" + input) is True: # do not overwrite file, concatenate
-	#	with open("trimmed_" + input, "w") as out:
-	#		for h,s in zip(header, seq):
-	#			out.write(">" + str(h) + "\n" + str(s) + "\n")
-	#else: # create file and write
-	#	with open("trimmed_" + input, "w+") as out:
-	#		for h,s in zip(header, seq):
-	#			out.write(">" + str(h) + "\n" + str(s) + "\n")
-		
-
 def run():
 	num_seq = count_seq(input)
 	batch = split_fasta(input, num_seq, threads)
@@ -86,8 +76,6 @@ def run():
 		for i,j in p.imap_unordered(trim_header, batch):
 			for h,s in zip(i,j):
 				out.write(">" + str(h) + "\n" + str(s) + "\n")
-	#p.imap_unordered(trim_header, batch)
-	#trim_header(input)
 
 if __name__ == '__main__':
 	run()
