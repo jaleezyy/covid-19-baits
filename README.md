@@ -31,7 +31,7 @@ Download the [complete set of SARS-CoV-2 bait capture probes](./fasta_files/prop
 ![Uniformity plot denoting depth of coverage of candidate probes across all possible nucleotide targets from NCBI SARS-CoV-2 genomes](./supplementary_data/NCBI_coverage/Coverage_histo.png)
 
 # Alignment of candidate probes against a single SARS-CoV-2 genome (MN908947.3)
-![Alignment of candidate probes against a single SARS-CoV-2 genome](./figures/2019-nCoV_alignment_summary.png)
+![Alignment of candidate probes against a single SARS-CoV-2 genome](./figures/2019-SARS-2-alignment-summary.png)
 
 # Coverage plots of candidate probes across known SARS-CoV-2 complete genomes. The x-axis represents the base position on the genome denoted by the accession. The y-axis ranges from 0 to 4 fold coverage.
 ![Uniformity Plot](./supplementary_data/NCBI_coverage/LR757995_Ontarget_Coverage.png)
