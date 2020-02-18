@@ -31,7 +31,8 @@ Download the [complete set of SARS-CoV-2 bait capture probes](./fasta_files/prop
 ![Uniformity plot denoting depth of coverage of candidate probes across all possible nucleotide targets from NCBI SARS-CoV-2 genomes](./supplementary_data/NCBI_coverage/Coverage_histo.png)
 
 # Alignment of candidate probes against a single SARS-CoV-2 genome (MN908947.3)
-Top track: MN908947.3 GenBank annotation. Second track: MN908947.3 GC content between 0 and 100%. Third track: Alignment of candidate probes against MN908947.3. Bottom track: Alignment of CoV bait capture probes from Lim et a. 2019. Detection and characterization of a novel bat-borne coronavirus in Singapore using multiple molecular approaches. [Journal of General Virology 100:1363–1374](https://www.ncbi.nlm.nih.gov/pubmed/31418677) (designed prior to knowledge of SARS-CoV-2 genome sequence).
+Top track: MN908947.3 GenBank annotation. Second track: MN908947.3 GC content between 0 and 100%. Third track: Alignment of candidate probes against MN908947.3. Bottom track: Alignment of CoV bait capture probes from Lim et al. 2019. Detection and characterization of a novel bat-borne coronavirus in Singapore using multiple molecular approaches. [Journal of General Virology 100:1363–1374](https://www.ncbi.nlm.nih.gov/pubmed/31418677) (designed prior to knowledge of SARS-CoV-2 genome sequence).
+
 ![Alignment of candidate probes against a single SARS-CoV-2 genome](./figures/2019-SARS-2-alignment-summary-annotated.png)
 
 # Coverage plots of candidate probes across known SARS-CoV-2 complete genomes. The x-axis represents the base position on the genome denoted by the accession. The y-axis ranges from 0 to 4 fold coverage.
