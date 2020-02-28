@@ -3,7 +3,10 @@
 ### WORK IN PROGRESS
 ### Goal is to create my own version of the greedy algorithm based on BLAST local alignment
 ### Run BLASTn on bait set itself
-### Isolate a set of bait headers (SeqRecord) - check memory usage
+
+### BLASTn should be run with the following at minimum: -outfmt '10 std'
+
+### Isolate a set of bait headers (SeqRecord)
 ### Parse BLAST file relative to bait header set
 
 import re
