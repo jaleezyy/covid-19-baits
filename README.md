@@ -4,7 +4,7 @@ SARS-CoV-2 is a novel betacoronavirus and the etiological agent of the current 2
 
 Full description, methods, and results can be viewed here:
 
-Nasir, J.A., D.J. Speicher, R.A. Kozak, H.N. Poinar, M.S. Miller, & A.G. McArthur. 2020. Rapid design of a bait capture platform for culture- and amplification-free next-generation sequencing of SARS-CoV-2. Preprints 2020, 2020020385. Available from [https://www.preprints.org/manuscript/202002.0385/v1](https://www.preprints.org/manuscript/202002.0385/v1).
+[Nasir, J.A., D.J. Speicher, R.A. Kozak, H.N. Poinar, M.S. Miller, & A.G. McArthur. 2020. Rapid design of a bait capture platform for culture- and amplification-free next-generation sequencing of SARS-CoV-2. Preprints 2020, 2020020385.](https://www.preprints.org/manuscript/202002.0385/v1)
 
 Lay Summary:
 
