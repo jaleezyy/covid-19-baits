@@ -6,9 +6,7 @@ Full description, methods, and results can be viewed here:
 
 [Nasir, J.A., D.J. Speicher, R.A. Kozak, H.N. Poinar, M.S. Miller, & A.G. McArthur. 2020. Rapid design of a bait capture platform for culture- and amplification-free next-generation sequencing of SARS-CoV-2. Preprints 2020, 2020020385.](https://www.preprints.org/manuscript/202002.0385/v1)
 
-Lay Summary:
-
-[McMaster develops tool for coronavirus battle](https://brighterworld.mcmaster.ca/articles/mcmaster-develops-tool-for-coronavirus-battle/)
+Lay Summary: [McMaster develops tool for coronavirus battle](https://brighterworld.mcmaster.ca/articles/mcmaster-develops-tool-for-coronavirus-battle/)
 
 # SARS-CoV-2 bait capture platform probe set
 
