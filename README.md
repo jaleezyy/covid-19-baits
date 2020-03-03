@@ -2,9 +2,7 @@
 
 SARS-CoV-2 is a novel betacoronavirus and the etiological agent of the current 2019 novel coronavirus outbreak that originated in Hubei Province, China. While polymerase chain reaction and cultural based methods are the front line tools for SARS-CoV-2 surveillance, application of amplification-free and culture-free methods for isolation of SARS-CoV-2 RNA, partnered with next generation sequencing, would provide a useful tool for both surveillance and research of SARS-CoV-2. We here release into the public domain a set of bait capture hybridization probe sequences for enrichment of SARS-CoV-2 RNA in complex biological samples. These probe sequences have been designed using rigorous bioinformatics methods to provide sensitivity, accuracy, and minimal off-target hybridization. Probe design was based on existing, validated approaches for detection of antimicrobial resistance genes in complex samples and it is our hope that this SARS-CoV-2 bait capture platform, once validated by those with samples in hand, will be of aid in combating the current outbreak.
 
-Full description, methods, and results can be viewed here:
-
-[Nasir, J.A., D.J. Speicher, R.A. Kozak, H.N. Poinar, M.S. Miller, & A.G. McArthur. 2020. Rapid design of a bait capture platform for culture- and amplification-free next-generation sequencing of SARS-CoV-2. Preprints 2020, 2020020385.](https://www.preprints.org/manuscript/202002.0385/v1)
+Full description, methods, and results can be viewed here: [Nasir, J.A., D.J. Speicher, R.A. Kozak, H.N. Poinar, M.S. Miller, & A.G. McArthur. 2020. Rapid design of a bait capture platform for culture- and amplification-free next-generation sequencing of SARS-CoV-2. Preprints 2020, 2020020385.](https://www.preprints.org/manuscript/202002.0385/v1)
 
 Lay Summary: [McMaster develops tool for coronavirus battle](https://brighterworld.mcmaster.ca/articles/mcmaster-develops-tool-for-coronavirus-battle/)
 
