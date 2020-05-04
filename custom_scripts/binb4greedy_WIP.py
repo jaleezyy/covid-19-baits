@@ -25,7 +25,7 @@ except IndexError:
 Arguments are as followed:
 	new_greedy.py <input_file> <blast_file> <output_file> <version_1_or_2> <num_threads (default = 1)>
 	
-	For <version> type either "1" or "2" or "3":
+	For <version> type either "1" or "2":
 		Version "1" Greedy Algorithm first analyses all alignment hits for a bait prior to removal.
 		Version "2" Greedier Algorithm removes baits by analysing each BLAST line once (line-by-line removal).
 		""")
